@@ -33,6 +33,7 @@ nav {
 
 .img-card-title {
     width: 150px;
+    object-fit: cover;
 }
 
 .card-title {
